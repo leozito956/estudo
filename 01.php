@@ -8,9 +8,9 @@ session_start();
 
 <?php
 // Set session variables
-$_SESSION["favcolor"] = "green";
-$_SESSION["favanimal"] = "cat";
-$_SESSION["name"] = "Leonardo";
+$_SESSION["name"] = "Leonardo Pereira Ramos ";
+$_SESSION["idade"] = "17";
+$_SESSION["filme"] = "Howl's Moving Castle";
 echo "Session variables are set.";
 ?>
 
