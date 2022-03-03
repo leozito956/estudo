@@ -10,7 +10,7 @@ session_start();
 unset( $_SESSION['name'] );
 unset( $_SESSION['idade'] );
 unset( $_SESSION['filme'] );
-session_destroy();
+
 echo "Session deleted";
 ?>
 
